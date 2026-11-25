@@ -1,0 +1,28 @@
+{
+  "name": "student-report-system",
+  "version": "1.0.0",
+  "description": "Student Report System with Role-Based Student, Parent, and Teacher Portals",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=3000",
+    "dev": "npx live-server --port=3000"
+  },
+  "keywords": [
+    "student-report-system",
+    "react",
+    "bootstrap",
+    "academic-portal"
+  ],
+  "author": "Vivek Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "chart.js": "^4.4.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
